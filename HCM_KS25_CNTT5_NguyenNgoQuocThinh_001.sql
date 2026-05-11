@@ -1,3 +1,5 @@
+-- commit lại 
+
 CREATE DATABASE hackathon_db ; 
 USE hackathon_db ;
 
